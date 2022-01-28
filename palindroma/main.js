@@ -21,6 +21,7 @@ while (i >= 0) {
 
 console.log(parolaInversa);
 
+// se la parola inversa è uguale a la parola scritta stampo:
 if(parola == parolaInversa) {
     alert('la parola è palindroma');
 } else {
